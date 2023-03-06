@@ -1,0 +1,35 @@
+Map? music = {
+  'name': [
+    'Beleiver',
+    'Toxic',
+    "Don't shy",
+    'Alone',
+    'Invisible',
+    'Faded',
+    'Arcade',
+    'Perfect',
+    'Shape of you',
+    'Bad liar',
+    'Whats Popin',
+    'Memories',
+    'Beggin',
+    'Falling',
+    'Hope'
+  ],
+  'artist': [
+    'Imagine Dragons',
+    'Boywithuk',
+    'Justin piper',
+    'Pop Smoke',
+    'Alan Walker',
+    'Ducan Laurence',
+    'Ed Shareen',
+    'Ed Shareen',
+    'Imagine Drogons',
+    'jack Harlow',
+    'Maroon 5',
+    'Maneskin',
+    'Traver',
+    'XxxTentacion'
+  ],
+};

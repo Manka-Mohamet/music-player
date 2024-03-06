@@ -1,9 +1,11 @@
-# musics
+# music
 
 A new Flutter  music player project .
 
+
 ## Description
-this repo contains audio player ui application using flatter 
+
+this repo contains audio player ui application using flatter.
 
 
 ### Get Started
